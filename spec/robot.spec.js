@@ -1,4 +1,5 @@
 'use strict';
+angular-mocks.js;
 
 describe("Robot", function() {
   var robot = new Robot();
